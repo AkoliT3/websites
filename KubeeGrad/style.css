@@ -1,0 +1,41 @@
+body{
+	background-repeat: repeat;
+}
+.menu h1, h2{
+	text-align: center;
+}
+.content a{
+	text-decoration: none;
+	color: blue;
+	font-weight: bold;
+}
+.menu{
+	background-color: grey;
+	border-radius: 15px;
+	width: 300px;
+	position: relative;
+	left: 38%;
+}
+.tarif{
+	text-align: center;
+	position: relative;
+	top: 200px;
+	opacity: 0.7;
+}
+.tarif:hover{
+	opacity: 1;
+}
+.images img{
+	width: 500px;
+	border: solid;
+	border-color: blue;
+	border-radius: 15px;
+	margin: 66px;
+}
+.server{
+	font-size: 32px;
+	color: white;
+}
+.content{
+	color: white;
+}
